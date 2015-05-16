@@ -2,7 +2,11 @@
 layout: default
 title: Home
 ---
-
-{% assign page = site.posts.first %}
-{% assign content = page.content %}
-{% include post.html %}
+{% for post in site.posts %}
+<div class="posts-list-index">
+  <a class="post-title" href="{{ post.url }}">
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {{ post.title }}
+  </a>
+</div>
+{% endfor %}

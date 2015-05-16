@@ -1,4 +1,5 @@
 name: Francisco Aldunate (Francho)
 markdown: redcarpet
 pygments: true
-baseurl: http://franciscoaldunate.com
+# baseurl: http://franciscoaldunate.com
+baseurl: 
