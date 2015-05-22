@@ -8,7 +8,7 @@ categories: posts
 If you have had this error:
 
 <pre>
-  <code data-language="ruby">
+  <code data-language="shell">
     /usr/bin/env:node: No such file or directory
   </code>
 </pre>
@@ -16,7 +16,7 @@ If you have had this error:
 Probably your installation of nodejs don't work jajaja, but this can serve of help
 
 <pre>
-  <code class="ruby">
+  <code data-language="shell">
     sudo ln -s "$(which nodejs)" /usr/bin/node
   </code>
 </pre>
