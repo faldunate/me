@@ -12,7 +12,7 @@ double curly braces for variables, you can imagine the problem...
 here, one of many solutions:
 
 <pre>
-  <code class="coffescript">
+  <code data-language="coffeescript">
     app = angular.module 'todayApp', [], ($interpolateProvider) ->
       $interpolateProvider.startSymbol '[['
       $interpolateProvider.endSymbol ']]'
