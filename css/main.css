@@ -180,7 +180,7 @@ a:hover {
   margin-bottom: 1.25em;
 }
 
-.post code {
+/*.post code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
@@ -190,7 +190,6 @@ a:hover {
   border: none;
 }
 
-/* terminal */
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
@@ -199,7 +198,7 @@ a:hover {
 
 .post pre.terminal code {
   background-color: #333;
-}
+}*/
 
 /*****************************************************************************/
 /*
