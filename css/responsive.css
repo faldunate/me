@@ -90,3 +90,7 @@
 .slideIn {
   margin-left: 0%;
 }
+
+.post-info{
+  max-width: 725px;
+}
