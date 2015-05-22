@@ -295,6 +295,7 @@ a:hover {
 .posts-list-index{
   padding: 1em;
   float: left;
+  width: 70%;
 }
 
 .posts-list-index a{
