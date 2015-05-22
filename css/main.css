@@ -162,11 +162,11 @@ a:hover {
 }
 
 /* standard */
-.post pre {
+/*.post pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
-}
+}*/
 
 .post p {
   font-family: 'Source Sans Pro', Arial, sans-serif;
