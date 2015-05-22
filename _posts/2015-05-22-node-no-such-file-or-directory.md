@@ -5,8 +5,6 @@ date:   2015-05-02 09:47:00
 categories: posts
 ---
 
-## install
-
 if you have had this error:
 
 <pre>
