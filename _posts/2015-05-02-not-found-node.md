@@ -5,14 +5,14 @@ date: 2015-05-02 12:00:00
 categories: posts
 ---
 
-## if you have had this error:
+If you have had this error:
 
 <pre>
   <code class="ruby">
     /usr/bin/env:node: No such file or directory
   </code>
 </pre>
-
+<br />
 Probably your installation of nodejs don't work jajaja, but this can serve of help
 
 <pre>
