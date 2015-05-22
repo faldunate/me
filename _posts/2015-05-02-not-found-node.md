@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solution to /usr/bin/env: node: No such file or directory
+title: Not Found Node
 date: 2015-05-02 12:00:00
 categories: posts
 ---
