@@ -8,7 +8,7 @@ categories: posts
 If you have had this error:
 
 <pre>
-  <code class="ruby">
+  <code data-language="ruby">
     /usr/bin/env:node: No such file or directory
   </code>
 </pre>
