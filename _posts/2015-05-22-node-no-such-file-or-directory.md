@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Solution to /usr/bin/env: node: No such file or directory
 date:   2015-05-02 09:47:00
 categories: posts
